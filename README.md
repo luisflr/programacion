@@ -3,5 +3,11 @@
   This project helps to check the difference between the times of each ordering method.
   In this case we used the methods: insert, bubble, shell, merge and quick respectively with lists of different sizes and analyzing   the speed of response of each method with each of these lists.
   ## Experiments and Results
-  En la siguiente tabla de doble entrada se mostraran los metodos de ordenamiento y los tiempos de respuesta de acuerdo con las       diferentes listas de tamaño 10 hasta 10000
+  The following table of double entry will show the ordering methods and response times according to the different lists from size   10 to 10000
+  |Size|Insert Sort|Bubble Sort|Shell Sort|Merge Sort|Quick Sort|
+  |--------|--------|--------|--------|--------|--------|
+  |10|0|0|0|0|0|
+  |100|0|0|0|0|0|
+  |1000|3|3|0|0|1|
+  |10000|210|350|1|4|75|
  
