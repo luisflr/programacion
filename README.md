@@ -5,8 +5,6 @@
   ## Experiments and Results
   The following table of double entry will show the ordering methods and response times according to the different lists from size   10 to 10000
   
-  
-  
   |Size|Insert Sort|Bubble Sort|Shell Sort|Merge Sort|Quick Sort|
   |--------|--------|--------|--------|--------|--------|
   |10|0|0|0|0|0|
