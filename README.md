@@ -7,9 +7,9 @@
   
   ## Characteristics 
   
-  OS: Windows 7 Professional 64 bits (6.1, compilation 7601)
-  Processor: Intel(R) Pentium(R) Dual CPU @1.73 GHz(2CPUs)
-  Memory: 2048MB RAM
+  OS: Windows 7 Professional 64 bits (6.1, compilation 7601).
+  Processor: Intel(R) Pentium(R) Dual CPU @1.73 GHz(2CPUs).
+  Memory: 2048MB RAM.
   
   ## Experiments and Results
   
