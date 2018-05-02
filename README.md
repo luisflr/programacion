@@ -8,12 +8,12 @@
   
   The following table of double entry will show the ordering methods and response times according to the different lists from size   10 to 10000
   
-  |Size|Insert Sort|Bubble Sort|Shell Sort|Merge Sort|Quick Sort|
+  |Size|Insert Sort/s|Bubble Sort/s|Shell Sort/s|Merge Sort/s|Quick Sort/s|
   |--------|--------|--------|--------|--------|--------|
   |10|0|0|0|0|0|
   |100|0|0|0|0|0|
-  |1000|3|3|0|0|1|
-  |10000|210|350|1|4|75|
-  |100000|19964|33819|13|36|5911|
+  |1000|0|0.016|0|0|0|
+  |10000|0.234|0.327|0|0|0.078|
+  |100000|19.61|32.343|0.015|0.031|4.961|
   
-  ![sort](https://user-images.githubusercontent.com/37960514/39499624-b9e40998-4d74-11e8-9924-aaba1045d753.png)
+  ![sortplot](https://user-images.githubusercontent.com/37960514/39545903-41cf3f00-4e18-11e8-87b1-e4ef8eab22ce.png)
