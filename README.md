@@ -16,4 +16,5 @@
   |10000|0.234|0.327|0|0|0.078|
   |100000|19.61|32.343|0.015|0.031|4.961|
   
-  ![sortplot](https://user-images.githubusercontent.com/37960514/39545903-41cf3f00-4e18-11e8-87b1-e4ef8eab22ce.png)
+  ![sortploot](https://user-images.githubusercontent.com/37960514/39546072-c1e53e88-4e18-11e8-8ccd-4e0fd29a8d48.png)
+
